@@ -24,10 +24,10 @@ We will use GitHub Desktop for this session. Please see installation instruction
 See instructions [here](https://github.com/rladies-eastlansing/meetup-presentations/blob/master/presentations/R_Rstudio_setup_instructions.md)
 
 ## Co-hosts
-- Anna Yannakopoulos
-- Kayla Johnson
-- Janani Ravi
-- Camille Archer
+- [Anna Yannakopoulos](https://github.com/yannakopoulos)
+- [Kayla Johnson](https://github.com/kaylajohnson)
+- [Janani Ravi](https://github.com/jananiravi)
+- [Camille Archer](https://github.com/archerc5)
 
 ## Reading material
 - [Git Novice from Software Carpentry](https://swcarpentry.github.io/git-novice/)
