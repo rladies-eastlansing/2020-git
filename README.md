@@ -2,7 +2,7 @@
 #HowTo Version Control/Git
 
 ## Slides
-[Slide Deck](https://docs.google.com/presentation/d/12Lgw7SmnUPdvChEJLcqj-eT2wa7Ca2s85vLPe7knmiQ/edit#slide=id.p)
+[Slide Deck](https://docs.google.com/presentation/d/12Lgw7SmnUPdvChEJLcqj-eT2wa7Ca2s85vLPe7knmiQ/edit#slide=id.p) | [PDF](https://github.com/rladies-eastlansing/2020-git/blob/master/2020-howto-git.pdf)
 
 ## Installation
 For this co-work/help session, you will need to have the following software installed on your laptop **BEFORE** the workshop:
