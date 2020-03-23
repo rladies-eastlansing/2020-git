@@ -28,7 +28,6 @@ See instructions [here](https://github.com/rladies-eastlansing/meetup-presentati
 - Kayla Johnson
 - Janani Ravi
 - Camille Archer
-- Arjun Krishnan
 
 ## Reading material
 - [Git Novice from Software Carpentry](https://swcarpentry.github.io/git-novice/)
